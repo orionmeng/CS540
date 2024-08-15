@@ -1,0 +1,11 @@
+[1] Michael L. Littman, Ifeoma Ajunwa, Guy Berger, Craig Boutilier, Morgan Currie, Finale Doshi-Velez, Gillian Hadfield,
+Michael C. Horowitz, Charles Isbell, Hiroaki Kitano, Karen Levy, Terah Lyons, Melanie Mitchell, Julie Shah, Steven
+Sloman, Shannon Vallor, and Toby Walsh. "Gathering Strength, Gathering Storms: The One Hundred Year Study on
+Artificial Intelligence (AI100) 2021 Study Panel Report." Stanford University, Stanford, CA, September 2021.
+
+[2] Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., Lee, P., Lee, Y.T., Li, Y., Lundberg, S.
+and Nori, H., 2023. Sparks of artificial general intelligence: Early experiments with gpt-4. arXiv preprint arXiv:2303.12712.
+
+[3] B. J. Scrimenti, “Using AI to replicate the voice of a celebrity - watch out for legal issues including violating the right of publicity,” Lexology, https://www.lexology.com/library/detail.aspx?g=94c0f97a-e6bb-4e84-9f5c-ca2516f80f5e.
+
+[4] G. Hopkin, “World faces flood of fake people now AI dodges bot spotters,” AI Magazine, https://aimagazine.com/articles/world-faces-flood-of-fake-people-now-ai-dodges-bot-spotters.
